@@ -1,0 +1,17 @@
+Patient: Mr. Tarek H.
+Date: 2025-04-27
+Exam: MRI Cervical Spine (without Contrast)
+
+Findings:
+- Disc osteophyte complex at C5-C6 resulting in mild central canal stenosis.
+- No significant foraminal narrowing at other levels.
+- Spinal cord signal normal, no evidence of edema.
+
+Precautions:
+- Metal screening form completed; no contraindications.
+- Neck brace removed during imaging; patient was instructed to minimize swallowing motion.
+
+Conclusion:
+Degenerative changes at C5-C6. No cord compression at present. Clinical correlation recommended.
+
+Signature: Dr. M. Ben Youssef

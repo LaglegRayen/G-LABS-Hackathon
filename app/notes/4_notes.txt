@@ -1,0 +1,19 @@
+Patient: Mrs. Amal S.
+Date: 2025-04-27
+Exam: MRI Abdomen with Contrast
+
+Findings:
+- No hepatic lesions identified; normal liver morphology.
+- Mild splenomegaly.
+- Normal adrenal glands, kidneys, and pancreas.
+- No free fluid or lymphadenopathy.
+
+Precautions:
+- Patient evaluated for contrast allergy risk; no prior adverse reactions reported.
+- Pre-procedure fasting for 6 hours maintained as instructed.
+- Patient advised about temporary metallic taste post-injection of gadolinium.
+
+Conclusion:
+Normal MRI abdomen. No acute pathology. Routine follow-up in one year suggested for surveillance.
+
+Signature: Dr. I. Kharrat

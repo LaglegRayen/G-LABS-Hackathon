@@ -1,0 +1,17 @@
+Patient: Mr. Khaled R.
+Date: 2025-04-27
+Exam: MRI Knee (Right)
+
+Findings:
+- Full-thickness tear of the anterior cruciate ligament (ACL).
+- Mild bone bruise noted at the lateral femoral condyle.
+- Menisci appear intact.
+
+Precautions:
+- Patient questioned about previous surgeries or prostheses; none reported.
+- Patient instructed about the need for complete immobility during joint imaging sequences.
+
+Conclusion:
+Acute ACL tear confirmed. Recommend orthopedic referral and further management.
+
+Signature: Dr. S. Ben Ammar

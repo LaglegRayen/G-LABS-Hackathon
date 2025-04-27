@@ -1,0 +1,19 @@
+Patient: Mr. Ahmed B.qsdqd
+Date: 2025-04-27
+Exam: MRI Brain with Contradqdsqd
+Findings:
+- No evidence of acute hemorrhage or infarct.
+- Mild periventricular white matter changes consistent with small vessel ischemic disease.
+- No mass effect or midline shift.
+- Normal ventricular size and configuration.
+
+Precautions:
+- Patient reported no known allergies to contrast agents.
+- Renal function verified prior to contrast administration (eGFR 95).
+- Patient instructed to remain still during the imaging to avoid motion artifacts.
+- Post-procedure hydration encouraged to assist with contrast elimination.
+
+Conclusion:
+Stable MRI with no acute intracranial pathology. Follow-up recommended only if new symptoms develop.
+
+Signature: Dr. L. Mansouri

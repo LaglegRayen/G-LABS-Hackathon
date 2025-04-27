@@ -1,0 +1,18 @@
+Patient: Mrs. Sana K.
+Date: 2025-04-27
+Exam: MRI Lumbar Spine (without Contrast)
+
+Findings:
+- L4-L5 disc herniation with moderate compression of the left L5 nerve root.
+- Mild degenerative changes noted at L5-S1.
+- No evidence of spinal canal stenosis.
+
+Precautions:
+- Patient screened for metallic implants; no contraindications found.
+- Patient reported mild claustrophobia; sedative administered prior to scan (0.5mg Lorazepam).
+- Ear protection provided due to scanner noise.
+
+Conclusion:
+Findings correlate with patient's complaints of radicular pain in the left lower extremity. Recommendation: neurosurgical consultation.
+
+Signature: Dr. A. Hamdi
